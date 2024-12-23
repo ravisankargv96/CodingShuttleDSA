@@ -51,7 +51,7 @@ Single person
       int safePos = 0;
 ```
 
-j(i, k) = ( j(i-1, k) + k ) % i
+$j(i, k) = ( j (i-1, k) + k ) % i$
 ```      
       for (int i = 2; i <= n; i++){
         safePos = (safePos + k) % i;
