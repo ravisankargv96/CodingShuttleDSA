@@ -40,6 +40,7 @@ To avoid calculating the same value multiple times, we use the identity C(n, r) 
 ```
 Calculate the binomial coeffiecient directly: (n - r + i)/i
 i.e. n * n - 1 * ... n - (r - 1) / 1 * 2 * .. * r
+n - (r - 1) * n - (r - 2) * ... * n - 1 * n / 1 * 2 * .. * r
 ```
       long result = 1;
 
