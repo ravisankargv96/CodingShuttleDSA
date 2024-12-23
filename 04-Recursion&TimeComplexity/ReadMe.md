@@ -1,7 +1,3 @@
-# CodingShuttleDSA
-Add this repo to index
-
-
 # Recursion & Time Complexity
 1. Time & Space Complexity
 2. Introduction to Recursion
