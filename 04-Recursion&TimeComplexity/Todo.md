@@ -6,10 +6,6 @@ Problems:
   **linear**:
   - DP
   - Optimized Version (This break down completed)
-2. Calculate the value of nCr
-3. Josephus Problem
-4. Subsets of a string
-5. Palindrome String
 6. Count the Occurrences of a string
 
 Assignments:
